@@ -1,0 +1,5 @@
+# Moderator Plugin
+Author: ChessNut
+
+
+---

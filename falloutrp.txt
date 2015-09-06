@@ -1,0 +1,7 @@
+"falloutrp"
+{
+	"base"		"nutscript"
+	"title"		"Fallout RR
+	"author"	"netzona.org"
+	"menusystem"	"1"
+}
